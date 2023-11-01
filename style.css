@@ -1,0 +1,48 @@
+.void-bg {
+    background-color: rgb(49, 88, 116);
+}
+
+.void-bg2 {
+    background-color: rgb(19, 48, 65);
+}
+
+.void-bg3 {
+    background-color: rgb(12, 38, 41);
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    height: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 8px solid rgb(19, 48, 65);
+}
+
+footer {
+    height: 50px;
+}
+
+#about {
+    height: 60vh;
+}
+
+#projects {
+    height: 110vh;
+    border: 5px solid rgb(58, 75, 150)
+}
+
+#contact {
+    height: 70vh;
+    margin-top: 5px;
+    border: 5px solid rgb(58, 75, 150)
+}
+
+#foto-pic {
+    width: 200px;
+}
+
+.card {
+    border: 7px solid rgb(34, 84, 112);
+}
